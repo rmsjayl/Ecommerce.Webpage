@@ -91,3 +91,7 @@
 span {
   font-weight: bold;
 }
+
+#main {
+  text-transform: uppercase;
+}
