@@ -3,6 +3,17 @@
   --secondary-color: #141212;
 }
 
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  margin-top: 10rem !important;
+}
+
 .navbar-brand,
 .nav-link {
   cursor: pointer;
